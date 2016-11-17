@@ -16069,7 +16069,6 @@ sec_id
 seccio
 seccion
 secciones
-secció
 second
 second-love-nl3
 secondary
