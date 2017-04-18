@@ -3,7 +3,11 @@
 ~aaaaaaa
 ~mail
 ~root
+.bashrc
+.bash_history
+.cvsignore
 .git
+.gitignore
 .git/index
 .htaccess
 .htpasswd
@@ -15,6 +19,8 @@ admin
 back
 backup
 bak
+bdd
+boot.log
 cache
 classe
 classes
@@ -24,6 +30,7 @@ cpanel
 database
 db
 debug
+dmesg
 document
 documents
 download
@@ -33,12 +40,18 @@ files
 host-manager
 htdocs
 html
+id_rsa
+id_rsa.pub
+icons/README
+info.php
 inc
 lib
 log
 logs
 manager
+maillog
 panel
+phpinfo.php
 phpmyadmin
 pub
 public
@@ -46,6 +59,9 @@ server-status
 server-info
 template
 templates
+test
+test.php
 tmp
 view
 views
+wtmp
