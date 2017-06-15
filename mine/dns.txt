@@ -164,8 +164,6 @@ austin
 austtx
 auth
 auto
-autodiscover
-autorun
 av
 available
 avantel
@@ -594,7 +592,6 @@ desarrollo
 descargas
 design
 designer
-desktop
 detroit
 dev
 dev0
@@ -1009,8 +1006,6 @@ ipsec
 ipsec-gw
 ipt
 ipv4
-ipv6
-ipv6.teredo
 iq
 ir
 irc
@@ -1259,7 +1254,6 @@ mngt
 mo
 mob
 mobile
-mobilemail
 mobileonline
 mom
 monitor
@@ -1930,7 +1924,6 @@ snoopy
 snort
 sntcca
 so
-soap
 socal
 software
 sol
@@ -2066,17 +2059,11 @@ termserv
 test
 test1
 test2k
-testajax
-testasp
-testaspnet
 testbed
-testcf
 testing
 testing1
-testjsp
 testlab
 testlinux
-testphp
 testserver
 testsite
 testsql
@@ -2197,7 +2184,6 @@ v
 v1
 v2
 v4
-v6
 va
 vader
 validip
@@ -2340,7 +2326,6 @@ wordpress
 work
 world
 wotnoh
-wpad
 write
 ws
 ws1
