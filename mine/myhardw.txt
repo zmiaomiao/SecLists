@@ -30,11 +30,13 @@ cpanel
 database
 db
 debug
+Debug
 dmesg
 document
 documents
 download
 downloads
+environ
 file
 files
 host-manager

