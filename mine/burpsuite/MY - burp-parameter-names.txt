@@ -1,0 +1,1 @@
+/home/gwen/SecLists/mine/burp-parameter-names.txt
