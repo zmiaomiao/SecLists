@@ -1,1 +1,1 @@
-/home/gwen/SecLists/mine/xss-mytop50.txt
+../xss-mytop50.txt

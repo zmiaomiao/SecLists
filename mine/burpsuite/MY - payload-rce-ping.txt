@@ -1,1 +1,1 @@
-/home/gwen/SecLists/mine/payload-rce-ping.txt
+../payload-rce-ping.txt

@@ -1,1 +1,1 @@
-/home/gwen/SecLists/mine/payload-ti-25536.txt
+../payload-ti-25536.txt
