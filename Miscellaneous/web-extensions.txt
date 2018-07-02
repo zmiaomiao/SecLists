@@ -30,6 +30,7 @@
 .sh
 .shtml
 .sql
+.tpl
 .txt
 .xml
 .swf

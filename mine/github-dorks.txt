@@ -60,3 +60,7 @@ shodan_api_key language:json
 shodan_api_key language:ruby
 filename:shadow path:etc
 filename:secret_token.rb secret_token
+s3.amazonaws.com
+storage.google
+storage.cloud.google
+digitaloceanspaces.com

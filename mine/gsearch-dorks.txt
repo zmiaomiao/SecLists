@@ -64,3 +64,7 @@ rds.amazonaws.com -s password
 -f GitHub.sublime-settings -s github_token
 -f client_secrets.json -s .apps.googleusercontent.com
 -f dataConfig.xml -s "dataSource JdbcDataSource password"
+-s s3.amazonaws.com
+-s storage.google
+-s storage.cloud.google
+-s digitaloceanspaces.com
